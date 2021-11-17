@@ -9,10 +9,11 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <StackPanel Orientation="Vertical">
-        <TextBlock Text="WinUI Everywhere" Margin="20" FontSize="30" />
-    
-        <Image HorizontalAlignment="Left" Source="ms-appx:///Assets/winui_.jpeg" Width="400" />
-    </StackPanel>
+        <TextBlock Text="WinUI Everywhere" 
+                   Margin="0,20" 
+                   HorizontalAlignment="Center"
+                   FontSize="40" />
 
-    
+        <Image Source="ms-appx:///Assets/uno_conf_no_bg.png" />
+    </StackPanel>
 </Page>

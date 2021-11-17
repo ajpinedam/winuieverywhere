@@ -35,6 +35,12 @@
     <PRIResource Include="$(MSBuildThisFileDirectory)Strings\en\Resources.resw" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\azure_static_webapps.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\uno_Avatar.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\uno_conf.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\uno_conf_no_bg.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\wasm_logo_big.png" />
     <Content Include="$(MSBuildThisFileDirectory)Assets\winui_.jpeg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\winui_logo.png" />
   </ItemGroup>
 </Project>
