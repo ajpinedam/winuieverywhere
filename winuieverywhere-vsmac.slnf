@@ -1,0 +1,21 @@
+{
+  "solution": {
+    "path": "winuieverywhere.sln",
+    "projects": [
+		"winuieverywhere.Shared\\winuieverywhere.Shared.shproj",
+
+		"winuieverywhere.Droid\\winuieverywhere.Droid.csproj",
+
+		"winuieverywhere.iOS\\winuieverywhere.iOS.csproj",
+
+
+		"winuieverywhere.Wasm\\winuieverywhere.Wasm.csproj",
+
+		"winuieverywhere.macOS\\winuieverywhere.macOS.csproj",
+
+		"winuieverywhere.Skia.Gtk\\winuieverywhere.Skia.Gtk.csproj",
+
+		"winuieverywhere.Skia.Linux.FrameBuffer\\winuieverywhere.Skia.Linux.FrameBuffer.csproj",
+    ]
+  }
+}
